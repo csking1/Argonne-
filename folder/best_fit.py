@@ -1,3 +1,7 @@
+
+##Simple program to generate X, Y numpy arrays and create/plot a regression line
+
+
 from statistics import mean
 import numpy as np
 import matplotlib.pyplot as plt
