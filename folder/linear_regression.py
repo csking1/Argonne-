@@ -63,6 +63,5 @@ def train_test_predict():
 	plt.xlabel('Date')
 	plt.ylabel('Price')
 	plt.savefig('fig.png')
-	# plt.show()
 train_test_predict()
 
